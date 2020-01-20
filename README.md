@@ -3,7 +3,7 @@ Automatic backup for Qiita items with firebase.
 
 # How to use
 
-After project clone, init firebase.
+After project clone, init firebase.  
 ※ **Select a Blaze plan** project. Because use external access for Qiita.
 
 ```
