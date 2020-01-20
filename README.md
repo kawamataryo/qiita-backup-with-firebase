@@ -4,8 +4,7 @@ Automatic backup for Qiita items with firebase.
 # How to use
 
 After project clone, init firebase.
-**Select a Blaze plan** and **default locale(us-central-1)** project.
-Because use external access for Qiita api and use Cloud Schedule functions.
+※ **Select a Blaze plan** project. Because use external access for Qiita.
 
 ```
 firebase init
